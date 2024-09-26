@@ -1,1 +1,3 @@
 # ExercicioPOO
+
+- Beatriz Coan Sobreda
