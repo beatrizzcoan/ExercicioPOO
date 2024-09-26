@@ -1,1 +1,3 @@
 # ExercicioPOO
+
+- Leticia Furlan
