@@ -1,5 +1,5 @@
 # ExercicioPOO
 
-- Leticia Furlan
-
+- Beatriz Coan Sobreda
 - Davi Delfino
+- Leticia Furlan 
